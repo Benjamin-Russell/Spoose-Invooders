@@ -124,7 +124,7 @@ int initSDL()
 	}
 
 	// Set the window caption
-	SDL_WM_SetCaption("WAIzards", NULL);
+	SDL_WM_SetCaption("Spoose Invooders", NULL);
 
 	return 0;
 }
