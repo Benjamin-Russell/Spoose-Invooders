@@ -1,0 +1,34 @@
+# Score to gain life (100-):
+10000
+# Default difficulty (1-4):
+2
+# Player starting life (0-):
+3
+# Player move speed (0-):
+2
+# Resource paths
+Resources/pixelzim.ttf
+Resources/Background.png
+Resources/Foreground.png
+Resources/deansplash.png
+Resources/Barrier.png
+Resources/Player.png
+Resources/Player_Destroyed.png
+Resources/Invader.png
+Resources/BoundingBoxes.png
+Resources/Explosion.png
+Resources/Explosion_Small.png
+Resources/Projectile_Player1.png
+Resources/Projectile_Multi_Shot.png
+Resources/Projectile_Basic_Enemy.png
+Resources/Projectile_Flash.png
+Resources/Projectile_Flash_Charge.png
+Resources/Projectile_Explosive.png
+Resources/Weapon_Basic.png
+Resources/Weapon_Multi_Shot.png
+Resources/Weapon_Laser.png
+Resources/Weapon_Explosive.png
+Resources/Weapon_Basic_Enemy.png
+Resources/Weapon_Triple_Threat.png
+Resources/Weapon_Flash.png
+Resources/Weapon_Bunker_Buster.png
