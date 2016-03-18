@@ -2,7 +2,7 @@
 A Space Invaders-alike by Benjamin Russell and Stevie Ulfelder. 
 Written in C++ using Visual Studio 2013, SDL 1.2, & the Boost library for game-state loading.
 
-His website:   
+Stevie's website:   
 coldco.de
 
 All artwork was made by me in Photoshop. Sound files complementary of freesound.org
