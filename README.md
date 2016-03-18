@@ -7,4 +7,6 @@ coldco.de
 
 All artwork was made by me in Photoshop. Sound files complementary of freesound.org
 
+This was a student project, and includes some code created by my class's teacher Dean Lawson. Specifically in the DeanLib folder.
+
 SEE THE PROJECT ON YOUTUBE HERE: https://www.youtube.com/watch?v=JuqL5E2N8Rw&index=3&list=PL_BosA1gtgcxPozh5Tu5cqDfAkt5CcVB0
