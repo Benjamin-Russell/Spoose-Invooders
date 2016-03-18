@@ -1,6 +1,6 @@
 # Spoose Invooders
 A Space Invaders-alike by Benjamin Russell and Stevie Ulfelder. 
-Written in C++ using SDL 1.2 & the Boost library for game-state loading.
+Written in C++ using Visual Studio 2013, SDL 1.2, & the Boost library for game-state loading.
 
 His website:   
 coldco.de
