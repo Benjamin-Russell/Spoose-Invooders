@@ -2,6 +2,8 @@
 A Space Invaders-alike by Benjamin Russell and Stevie Ulfelder. 
 Written in C++ using Visual Studio 2013, SDL 1.2, & the Boost library for game-state loading.
 
+SEE THE PROJECT ON YOUTUBE HERE: 
+https://www.youtube.com/watch?v=JuqL5E2N8Rw&index=3&list=PL_BosA1gtgcxPozh5Tu5cqDfAkt5CcVB0
 
 Stevie's website:   
 coldco.de
